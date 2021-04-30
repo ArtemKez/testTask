@@ -1,0 +1,36 @@
+textarea {
+    height: 300px;
+    width: 600px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+body > div {
+    width: 600px;
+
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+#enterText {
+    margin: 0 0 80px 0;
+}
+
+.blueButton {
+    color: white;
+    background-color: #00c4ff;
+    border-radius: 4px;
+    border: none;
+    margin: 3px 4px;
+}
+
+.btn {
+    text-align: right;
+}
+
